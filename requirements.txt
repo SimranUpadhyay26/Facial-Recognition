@@ -1,0 +1,9 @@
+tk
+numpy
+opencv-python
+opencv-contrib-python
+Pillow
+h5py
+imutils
+keras
+tensorflow
