@@ -4,6 +4,16 @@
 
 The GUI App for Face Detection and Recognition is an interactive application that leverages computer vision and machine learning techniques to perform real-time face detection and recognition. This project was developed with the goal of providing an intuitive and user-friendly solution for various applications such as security, attendance tracking, and personalized experiences.
 
+## Technologies Used
+
+- Python
+- OpenCV
+- TensorFlow / Keras
+- Tkinter
+- NumPy
+- Pillow (PIL)
+
+  
 ### Key Features
 
 - **Face Detection**: The application uses state-of-the-art face detection algorithms to identify and locate human faces within images and live video streams.
@@ -12,7 +22,7 @@ The GUI App for Face Detection and Recognition is an interactive application tha
 
 - **Database Management**: The user interface includes features for managing a database of recognized faces.
 
-- **Gender identification and Age Prediction** : The GUI not only detect and recognize faces but also determine the gender of the detected individual and ge prediction of the user.
+- - **Gender Identification and Age Prediction:** The GUI not only detects and recognizes faces but also predicts the gender and estimated age of the detected person.
 
 - **Real-Time Processing**: The app offers real-time processing capabilities, allowing users to perform face detection and recognition on live video feeds from webcams or other camera sources.
 
